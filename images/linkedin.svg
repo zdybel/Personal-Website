@@ -1,0 +1,20 @@
+<svg width="116px" height="118px" viewBox="889 238 116 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="116" height="117" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="116" height="117" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="12" y="41" width="21" height="62"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21" height="62" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Group-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(889.000000, 238.000000)">
+        <use id="Rectangle-3" stroke="#350C90" mask="url(#mask-2)" stroke-width="16" xlink:href="#path-1"></use>
+        <use id="Rectangle-4" stroke="#350C90" mask="url(#mask-4)" stroke-width="16" xlink:href="#path-3"></use>
+        <ellipse id="Oval" stroke="#350C90" stroke-width="8" cx="24" cy="24.5" rx="11" ry="11.5"></ellipse>
+        <path d="M42.5,43.3631265 L42.5,99.3527997 L61.7305099,99.3828699 C61.7305099,99.3828699 61.7305099,63.9456761 63.3465469,62.3689975 C63.9687818,61.761917 66.830083,55.5243575 73.0043157,56.4235036 C75.5196918,56.7898148 79.4557522,58.2302885 80.9200634,61.3097428 C82.718246,65.0913308 82.718246,99.3242936 82.718246,99.3242936 L101.669998,99.4521851 L101.295082,59.8502168 C101.295082,59.8502168 102.442586,50.0657143 87.2637927,43.3432626 C72.0849991,36.620811 62.0619139,49.9815756 62.0619139,49.9815756 L62.2152198,43.0739661 L42.5,43.3631265 Z" id="Line" stroke="#350C90" stroke-width="8" stroke-linecap="square"></path>
+    </g>
+</svg>

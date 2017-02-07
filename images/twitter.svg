@@ -1,0 +1,18 @@
+<svg width="116px" height="118px" viewBox="1306 238 116 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="116" height="117" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="116" height="117" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M49.1773262,64.1375263 L49.1773262,55.3560404 L86.7346753,55.3560404 C91.148979,55.3560404 94.7344999,51.7769839 94.7344999,47.3619939 L94.7344999,44.1727606 C94.7344999,39.7633259 91.1528564,36.1787141 86.7346753,36.1787141 L49.1773262,36.1787141 L49.1773262,18.9953297 C49.1773262,14.5842992 45.5982697,11 41.1832797,11 L37.9940465,11 C33.5846117,11 30,14.579631 30,18.9953297 L30,80.2655086 C30,83.0821905 31.4593654,85.5617716 33.6638654,86.98626 C35.1682882,89.1427066 37.3835017,91.351553 40.604472,93.4409175 C45.9630541,96.9168985 49.4227068,97.9428857 51.4341886,98.1707663 C52.4788158,98.6722152 53.6491556,98.9532277 54.885012,98.9532277 L87.4646829,98.9532277 C91.8660796,98.9532277 95.4568253,95.3741712 95.4568253,90.9591812 L95.4568253,87.769948 C95.4568253,83.3605133 91.8786213,79.7759015 87.4646829,79.7759015 L61.4119327,79.7759015 C58.207346,78.7785352 55.3189065,77.3252509 53.1848794,75.2375063 C51.2539136,73.3484189 49.9852619,68.6620431 49.1773262,64.1375263 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="65.4568253" height="87.9532277" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Group-8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1306.000000, 238.000000)">
+        <use id="Rectangle-3" stroke="#350C90" mask="url(#mask-2)" stroke-width="16" xlink:href="#path-1"></use>
+        <use id="Combined-Shape" stroke="#350C90" mask="url(#mask-4)" stroke-width="12" xlink:href="#path-3"></use>
+    </g>
+</svg>
